@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{3A1E952D-4159-D4DF-F1ED-11A4709BF188}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "ShootG",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
